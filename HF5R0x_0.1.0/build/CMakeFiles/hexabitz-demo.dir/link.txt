@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o  -o hexabitz-demo -Wl,-rpath,/home/hexabitz/Desktop/HF5R0x_0.1.0/build: libhexabitz.so.1.5 

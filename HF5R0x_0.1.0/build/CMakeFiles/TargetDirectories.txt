@@ -1,0 +1,10 @@
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/install/strip.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/install/local.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/install.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/list_install_components.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/hexabitz-demo.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/edit_cache.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/hexabitz.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/rebuild_cache.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/package.dir
+/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles/package_source.dir
