@@ -18,7 +18,7 @@ Hexabitz Nvidia Jetson nano Interface Mudule Firmware
 
 ## How to Compile using autotools
 
-Install the package
+Install package
 
 ```bash
 autoreconf --install
@@ -43,9 +43,9 @@ make install
 
 ---
 
-## How to compile executable and link with shared library?
+## How to compile executables and link with shared library?
 
-Compile and Like library
+Compile and Link lhexabitz library
 
 ```bash
 g++ dem o.cpp -lhexabitz -I/user/include/hexabitz
