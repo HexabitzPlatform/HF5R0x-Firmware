@@ -24,7 +24,7 @@ Install package
 autoreconf --install
 ```
 
-create a new Directory and run the configuration
+Create a new Directory and run the configuration
 
 ```bash
 mkdir build
@@ -78,7 +78,7 @@ Then use [Putty](https://www.putty.org/), [Realterm](https://sourceforge.net/pro
 
 You will be promoted with a login prompt, type your User and Passward to open this channel and now you can connect to Hexabitz Modules!!
 
-![Login Prompt](images\login_prompt.PNG)
+![Login Prompt](images/login_prompt.PNG)
 
 **Note:**
 
