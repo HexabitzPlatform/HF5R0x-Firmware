@@ -94,8 +94,7 @@ You will be promoted with a login prompt, type your User and Passward to open th
 | BOS.cpp         | This is a tiny version of The Bitz Operating System. [BOS](https://hexabitz.com/docs/code-overview/bos-module-parameters/)                                                           |
 | serial.c        | The serial configuration and functions to control the peripheral.                                                                                                                    |
 | MessageCode.h   | Contains a sample of Module's Message Codes that will be decoded by the BOS_Message.cpp file. [MessageCodes](https://hexabitz.com/docs/code-overview/array-messaging/message-codes/) |
-| BOS_Message.cpp | Message Parssing and Decoding (Where all the magic happens).             [BOS Messages](https://hexabitz.com/docs/code-overview/array-messaging/)                                    |
-| BOS_Porting.cpp | You can build here your functions that will handle the communication and decoding of the frames.                                                                                     |
+| BOS_Message.cpp | Message Parssing and Decoding (Where all the magic happens).             [BOS Messages](https://hexabitz.com/docs/code-overview/array-messaging/)                   |
 ---
 
 ## Baud rate
