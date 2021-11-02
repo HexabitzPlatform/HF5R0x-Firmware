@@ -60,15 +60,15 @@ include CMakeFiles/hexabitz.dir/flags.make
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o: CMakeFiles/hexabitz.dir/flags.make
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o: ../src/hexabitz/BOS_Message.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp
+	/usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.i
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.i
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.s
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.s
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o.requires:
 
@@ -84,15 +84,15 @@ CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o.provides.build: CMakeFile
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o: CMakeFiles/hexabitz.dir/flags.make
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o: ../src/hexabitz/BOS.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp
+	/usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.i
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.i
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.s
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.s
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o.requires:
 
@@ -105,42 +105,42 @@ CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o.provides: CMakeFiles/hexabitz.dir
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o.provides.build: CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o
 
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o: CMakeFiles/hexabitz.dir/flags.make
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o: ../src/hexabitz/UART.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/UART.cpp
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o: CMakeFiles/hexabitz.dir/flags.make
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o: ../src/hexabitz/serial.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o"
+	/usr/bin/gcc-7 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o   -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.c
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/UART.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.i
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.i"
+	/usr/bin/gcc-7 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.c > CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.i
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/UART.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.s
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.s"
+	/usr/bin/gcc-7 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.c -o CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.s
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.requires:
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.requires:
 
-.PHONY : CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.requires
+.PHONY : CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.requires
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.provides: CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.requires
-	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.provides.build
-.PHONY : CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.provides
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.provides: CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.requires
+	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.provides.build
+.PHONY : CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.provides
 
-CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.provides.build: CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o
+CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.provides.build: CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o
 
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o: CMakeFiles/hexabitz.dir/flags.make
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o: ../src/hexabitz/BOS_Porting.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp
+	/usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.i
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp > CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.i
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.s
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.s
 
 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o.requires:
 
@@ -157,7 +157,7 @@ CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o.provides.build: CMakeFile
 hexabitz_OBJECTS = \
 "CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o" \
 "CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o" \
-"CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o" \
+"CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o" \
 "CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o"
 
 # External object files for target hexabitz
@@ -165,7 +165,7 @@ hexabitz_EXTERNAL_OBJECTS =
 
 libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o
 libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o
-libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o
+libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o
 libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o
 libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/build.make
 libhexabitz.so.1.5: CMakeFiles/hexabitz.dir/link.txt
@@ -183,7 +183,7 @@ CMakeFiles/hexabitz.dir/build: libhexabitz.so
 
 CMakeFiles/hexabitz.dir/requires: CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o.requires
 CMakeFiles/hexabitz.dir/requires: CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o.requires
-CMakeFiles/hexabitz.dir/requires: CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o.requires
+CMakeFiles/hexabitz.dir/requires: CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o.requires
 CMakeFiles/hexabitz.dir/requires: CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o.requires
 
 .PHONY : CMakeFiles/hexabitz.dir/requires

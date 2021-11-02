@@ -51,6 +51,8 @@ sys/select.h
 -
 iostream
 -
+serial.h
+/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.h
 MessageCode.h
 /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/MessageCode.h
 BOS_Message.h
@@ -71,4 +73,6 @@ string
 -
 
 /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/MessageCode.h
+
+/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.h
 

@@ -6,4 +6,5 @@ CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/hexabitz/BOS.h
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/hexabitz/BOS_Message.h
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/hexabitz/BOS_Porting.h
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/hexabitz/MessageCode.h
+CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/hexabitz/serial.h
 

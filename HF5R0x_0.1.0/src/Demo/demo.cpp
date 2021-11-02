@@ -10,17 +10,20 @@
 #include "../hexabitz/BOS.h"
 #include <cstdio>
 
-uint8_t array[10]={0};
-int t=0;
+
 int main(int argc, char *argv[])
 {
-       init();	
+    init();	
+
+	// Start of User Code.
 
 
 	while(1){
 
-    }
-    
+	  // Place your repeated code here to execute multiple times.
+
+	}
+	// End of User Code.
 	return 0;
 }
 

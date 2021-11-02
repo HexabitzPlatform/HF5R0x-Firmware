@@ -20,7 +20,7 @@ configure_file(${CMAKE_SOURCE_DIR}/Config.h.in ${PROJECT_SOURCE_DIR}/include/Con
 add_library(hexabitz SHARED 
 		    src/hexabitz/BOS_Message.cpp
 		    src/hexabitz/BOS.cpp 
-                    src/hexabitz/UART.cpp
+                    src/hexabitz/serial.c
                     src/hexabitz/BOS_Porting.cpp
 		    )
 
@@ -32,8 +32,9 @@ set(PUBLIC_INCLUDE_FILES
                     src/hexabitz/BOS_Message.h
 	            src/hexabitz/MessageCode.h 
 		    src/hexabitz/BOS.h 
-                    src/hexabitz/UART.h
-		    src/hexabitz/BOS_Porting.h)
+                    src/hexabitz/serial.h
+		    src/hexabitz/BOS_Porting.h
+            )
 
 # set_target_properties(hexabitz PROPERTIES PUBLIC_HEADER "${PUBLIC_INCLUDE_FILES}")
 
@@ -54,5 +55,5 @@ install(TARGETS hexabitz-demo RUNTIME DESTINATION bin)
 
 # Cpack
 set(CPACK_GENERATOR "DEB")
-set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Najib")
+set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Hexabitz")
 include(CPack)

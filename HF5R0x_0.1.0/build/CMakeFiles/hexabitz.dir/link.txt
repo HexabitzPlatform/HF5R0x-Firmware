@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libhexabitz.so.1.5 -o libhexabitz.so.1.5 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o 
+/usr/bin/g++-7 -fPIC -g  -shared -Wl,-soname,libhexabitz.so.1.5 -o libhexabitz.so.1.5 CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o 

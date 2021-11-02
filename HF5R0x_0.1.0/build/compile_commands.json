@@ -1,27 +1,27 @@
 [
 {
   "directory": "/home/hexabitz/Desktop/HF5R0x_0.1.0/build",
-  "command": "/usr/bin/c++   -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g   -std=gnu++1z -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp",
+  "command": "/usr/bin/g++-7   -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g   -std=gnu++1z -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp",
   "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp"
 },
 {
   "directory": "/home/hexabitz/Desktop/HF5R0x_0.1.0/build",
-  "command": "/usr/bin/c++  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp",
+  "command": "/usr/bin/g++-7  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Message.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp",
   "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Message.cpp"
 },
 {
   "directory": "/home/hexabitz/Desktop/HF5R0x_0.1.0/build",
-  "command": "/usr/bin/c++  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp",
+  "command": "/usr/bin/g++-7  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp",
   "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS.cpp"
 },
 {
   "directory": "/home/hexabitz/Desktop/HF5R0x_0.1.0/build",
-  "command": "/usr/bin/c++  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/UART.cpp",
-  "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/UART.cpp"
+  "command": "/usr/bin/gcc-7 -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -o CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o   -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.c",
+  "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/serial.c"
 },
 {
   "directory": "/home/hexabitz/Desktop/HF5R0x_0.1.0/build",
-  "command": "/usr/bin/c++  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp",
+  "command": "/usr/bin/g++-7  -Dhexabitz_EXPORTS -I/home/hexabitz/Desktop/HF5R0x_0.1.0/include  -g -fPIC   -std=gnu++1z -o CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp",
   "file": "/home/hexabitz/Desktop/HF5R0x_0.1.0/src/hexabitz/BOS_Porting.cpp"
 }
 ]

@@ -312,32 +312,32 @@ src/hexabitz/BOS_Porting.cpp.s:
 	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/BOS_Porting.cpp.s
 .PHONY : src/hexabitz/BOS_Porting.cpp.s
 
-src/hexabitz/UART.o: src/hexabitz/UART.cpp.o
+src/hexabitz/serial.o: src/hexabitz/serial.c.o
 
-.PHONY : src/hexabitz/UART.o
+.PHONY : src/hexabitz/serial.o
 
 # target to build an object file
-src/hexabitz/UART.cpp.o:
-	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.o
-.PHONY : src/hexabitz/UART.cpp.o
+src/hexabitz/serial.c.o:
+	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.o
+.PHONY : src/hexabitz/serial.c.o
 
-src/hexabitz/UART.i: src/hexabitz/UART.cpp.i
+src/hexabitz/serial.i: src/hexabitz/serial.c.i
 
-.PHONY : src/hexabitz/UART.i
+.PHONY : src/hexabitz/serial.i
 
 # target to preprocess a source file
-src/hexabitz/UART.cpp.i:
-	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.i
-.PHONY : src/hexabitz/UART.cpp.i
+src/hexabitz/serial.c.i:
+	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.i
+.PHONY : src/hexabitz/serial.c.i
 
-src/hexabitz/UART.s: src/hexabitz/UART.cpp.s
+src/hexabitz/serial.s: src/hexabitz/serial.c.s
 
-.PHONY : src/hexabitz/UART.s
+.PHONY : src/hexabitz/serial.s
 
 # target to generate assembly for a file
-src/hexabitz/UART.cpp.s:
-	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/UART.cpp.s
-.PHONY : src/hexabitz/UART.cpp.s
+src/hexabitz/serial.c.s:
+	$(MAKE) -f CMakeFiles/hexabitz.dir/build.make CMakeFiles/hexabitz.dir/src/hexabitz/serial.c.s
+.PHONY : src/hexabitz/serial.c.s
 
 # Help Target
 help:
@@ -367,9 +367,9 @@ help:
 	@echo "... src/hexabitz/BOS_Porting.o"
 	@echo "... src/hexabitz/BOS_Porting.i"
 	@echo "... src/hexabitz/BOS_Porting.s"
-	@echo "... src/hexabitz/UART.o"
-	@echo "... src/hexabitz/UART.i"
-	@echo "... src/hexabitz/UART.s"
+	@echo "... src/hexabitz/serial.o"
+	@echo "... src/hexabitz/serial.i"
+	@echo "... src/hexabitz/serial.s"
 .PHONY : help
 
 

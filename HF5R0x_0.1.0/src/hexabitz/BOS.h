@@ -35,6 +35,8 @@
 #include <sys/select.h>
 #include <iostream>
 
+/*Nvidia Libraries */
+#include "serial.h"
 
 /*Hexabitz Libraries */
 #include "MessageCode.h"

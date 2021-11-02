@@ -60,15 +60,15 @@ include CMakeFiles/hexabitz-demo.dir/flags.make
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: CMakeFiles/hexabitz-demo.dir/flags.make
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o: ../src/Demo/demo.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hexabitz/Desktop/HF5R0x_0.1.0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp
+	/usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o -c /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp
 
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp > CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.i
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp > CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.i
 
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.s
+	/usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hexabitz/Desktop/HF5R0x_0.1.0/src/Demo/demo.cpp -o CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.s
 
 CMakeFiles/hexabitz-demo.dir/src/Demo/demo.cpp.o.requires:
 
